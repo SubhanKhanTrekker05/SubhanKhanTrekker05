@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/profile-banner.png" width="100%" alt="Muhammad Subhan Khan">
+</p>
+
 # Muhammad Subhan Khan
 
 ### Every access decision should have a reason.
