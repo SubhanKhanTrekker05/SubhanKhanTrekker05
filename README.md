@@ -10,7 +10,7 @@ Computer Science undergraduate at NED University of Engineering & Technology, wo
 
 Interested in understanding how software, operating systems, networks and enterprise infrastructure work together, particularly where identity, access and security intersect.
 
-[LinkedIn](YOUR_LINKEDIN_URL)
+[LinkedIn](https://linkedin.com/in/muhammad-subhankhan/)
 
 ---
 
@@ -57,7 +57,7 @@ Founder of **Vertive Foundation**, an independent initiative focused on developi
 
 The initiative aims to grow its projects and potentially welcome external contributors and collaborators as they mature.
 
-[Explore Vertive Foundation](YOUR_VERTIVE_ORGANIZATION_URL)
+[Explore Vertive Foundation](https://github.com/Vertive-Foundation)
 
 ## Technologies & Tools
 
