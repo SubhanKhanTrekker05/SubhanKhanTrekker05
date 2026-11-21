@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.png" width="100%" alt="Muhammad Subhan Khan">
+  <img src="assets/profile-banner.jpg" width="100%" alt="Muhammad Subhan Khan">
 </p>
 
 # Muhammad Subhan Khan
